@@ -1,2 +1,2 @@
 # automateboringstuff4thedition
-This package installs the modules used in "Automate the Boring Stuff with Python", 4th Edition.
+This package is a placeholder. Use https://pypi.org/project/automateboringstuff2ndedition/
